@@ -1,8 +1,7 @@
-# NeuroSAT 30-minute worksheet, revision 8
-
+# NeuroSAT Worksheet 
 Keep these files together:
 
-- `NeuroSAT_30min_Worksheet_v8.ipynb`
+- `NeuroSAT_stresstest.ipynb`
 - `neurosat_lab.py`
 - `toy_neurosat_checkpoint.npz`
 
